@@ -2,7 +2,7 @@
 /**
 *_puts - prints a string
 *@str: A pointer to an int that will be changed
-*
+*c: A character
 *Return: void which means it's successful
 */
 
