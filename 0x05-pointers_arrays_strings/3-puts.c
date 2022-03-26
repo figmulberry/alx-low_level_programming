@@ -2,13 +2,13 @@
 /**
 *_puts - prints a string
 *@str: A pointer to an int that will be changed
-*c: A character
+*
 *Return: void which means it's successful
 */
 
 void _puts(char *str)
 {
-char *c;
+char c;
 int m;
 
 c = str;
