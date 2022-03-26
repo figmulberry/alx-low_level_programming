@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*_puts - prints a string
+*_puts - Prints a string
 *@str: A pointer to an int that will be changed
 *
 *Return: void which means it's successful
