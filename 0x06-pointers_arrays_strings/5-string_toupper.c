@@ -5,7 +5,7 @@
 * Return: returns char
 */
 
-char *cap_string(char *)
+char *string_toupper(char *str)
 {
 int i;
 
