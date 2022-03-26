@@ -5,7 +5,7 @@
 *@a: A pointer to an int that will be updated
 *@b: B pointer to an int that will be updated
 *
-*Return: void meaning that it's correct
+*Return: void meaning that it's correct/successful
 */
 
 void swap_int(int *a, int *b)
