@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*_puts - Prints a string
+*_puts - prints a string
 *@str: A pointer to an int that will be changed
 *
 *Return: void which means it's successful
@@ -9,13 +9,13 @@
 void _puts(char *str)
 {
 char *c;
-int y;
+int m;
 
 c = str;
 
-for (y = 0; c[y]; y++)
+for (m = 0; c[m]; m++)
 {
-_putchar (c[y]);
+_putchar (c[m]);
 }
 _putchar('\n');
 }
